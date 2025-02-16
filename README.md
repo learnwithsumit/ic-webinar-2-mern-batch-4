@@ -1,3 +1,3 @@
 # MERN Stack Career Path - Batch 4 - Interactive Cares - Free Webinar on Redux
 
-Step 4 - Complex React State Management - Settings up Redux Store
+Step 5 - Complex React State Management - Clear old useState dependencies, dispatching actions & setup redux dev tools
