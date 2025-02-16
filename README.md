@@ -1,3 +1,3 @@
 # MERN Stack Career Path - Batch 4 - Interactive Cares - Free Webinar on Redux
 
-Date: 16 Feb 2025
+Step 1 - React UI - Tailwind CSS Setup and designing the React UI
